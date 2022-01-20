@@ -99,4 +99,3 @@ for group in json_data:
         jason_file.write(",\n")
 jason_file.write("]\n")
 jason_file.close()
-print(len(name_list))
